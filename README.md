@@ -12,13 +12,16 @@ Jimmy Han
 Renvel Dela Cruz  
 Kanwarveerpratap Singh  
 Kolby MacDonald  
+Mateo Calixto  
 Monik Narshibhai Nakrani  
 Lubos Kuzma (https://www.linkedin.com/in/lubos-kuzma-0719a586)  
 Nathan Tobias  
 Nathaniel Pawluk  
 Vincent Lo  
 Saiban Muhammad  
+Sam Fassil  
 Sukhmandeep Kaur  
+Yu Jin  
 
 
 
@@ -34,8 +37,8 @@ Sukhmandeep Kaur
 ## General:
 - ~~improvements to arguments structure/parsing~~
 - ~~annotate every line - x86 / ARM~~
-- create documentation
-- general improvements to Help (no arguments)
+- ~~create documentation~~
+- ~~general improvements to Help (no arguments)~~
 - ~~general improvements to arguments~~
 - ~~create installation mechanism (make file or install script) for Linux~~
 - create installation mechanism (make file or install script) for Windows
