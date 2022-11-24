@@ -3,13 +3,25 @@ This serves as the main repo for ITSC 204 Assignment 1
 
 # Contributor List (alphapbetical order, first name):
 Adeela Nassar  
+Austin Payne  
 Benjamin Day  
+Geoffrey Yung  
 Gurkirat Singh  
-Hasan Al-Taie  
+Hasan Al-Taie 
+Jimmy Han  
+Renvel Dela Cruz  
 Kanwarveerpratap Singh  
+Kolby MacDonald  
+Mateo Calixto  
 Monik Narshibhai Nakrani  
 Lubos Kuzma (https://www.linkedin.com/in/lubos-kuzma-0719a586)  
+Nathan Tobias  
+Nathaniel Pawluk  
+Vincent Lo  
 Saiban Muhammad  
+Sam Fassil  
+Sukhmandeep Kaur  
+Yu Jin  
 
 
 
@@ -25,13 +37,16 @@ Saiban Muhammad
 ## General:
 - ~~improvements to arguments structure/parsing~~
 - ~~annotate every line - x86 / ARM~~
-- create documentation
-- general improvements to Help (no arguments)
-- general improvements to arguments
-- create installation mechanism (make file or install script) for Linux
+- ~~create documentation~~
+- ~~general improvements to Help (no arguments)~~
+- ~~general improvements to arguments~~
+- ~~create installation mechanism (make file or install script) for Linux~~
 - create installation mechanism (make file or install script) for Windows
-- create installation mechanism (make file or install script) for Mac
+- ~~create installation mechanism (make file or install script) for Mac~~
+- ~~pre-requirements installer~~
 - any other improvements you can think of
-- Python version(s)? (this might be pretty big undertaking)
+- ~~Python version(s)? (this might be pretty big undertaking)~~
+- ~~Combined tolchain~~
+
 
 
